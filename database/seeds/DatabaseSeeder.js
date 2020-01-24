@@ -18,8 +18,8 @@ const Permission = use('Adonis/Acl/Permission')
 class DatabaseSeeder {
   async run () {
     const user = await User.create({
-      name: 'Diego Fernandes',
-      email: 'diego@rocketseat.com.br',
+      name: 'Pedro Wallauschek',
+      email: 'pedro@pedrowallauschek.com.br',
       password: '123456'
     })
 
