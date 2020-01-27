@@ -31,7 +31,8 @@
     "adonis-acl": "^1.1.1",
     "adonis-kue": "^5.0.1",
     "all": "0.0.0",
-    "pg": "^7.17.1"
+    "pg": "^7.17.1",
+    "soap": "^0.30.0"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
